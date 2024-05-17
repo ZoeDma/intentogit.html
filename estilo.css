@@ -1,9 +1,38 @@
-h1{
-    color: blue;
+body
+{
+    color: black;
+    text-align: center;
+    font-family: "Arial";
 }
 
-p{
-    font-family: "Arial";
-    font-size: larger;
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border:1px solid;
+    margin: 0 auto;
     color: black;
+}
+
+#container h1 {
+
+    font-size: xx-large;
+    color: black;
+    text-align: center;
+}
+
+#container p
+{
+    font-family: monospace;
+    text-align: center;
+    color: darkslategray;
+    font-size: larger;
+}
+
+#container h2 
+{
+    color: darkslategray;
+    text-align: center;
+    font-family: monospace;
+    font-size: larger;
 }
