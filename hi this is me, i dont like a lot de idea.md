@@ -1,1 +1,0 @@
-hi this is me, i dont like a lot de idea about it, but what i gonna do 
